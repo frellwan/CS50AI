@@ -30,3 +30,34 @@ An AI that ranks web pages by importance - similar to the Google PageRank AI - u
 ![image](https://github.com/frellwan/CS50AI/assets/12740967/d4818ea0-4bdc-4787-b70a-387b96b72314)
 
 An AI that predicts the likelihood of members of a family having a 0, 1, or 2 copies of a gene, and a trait caused by that gene, using a Bayesian Network and Inference by Enumeration.
+
+## Crossword
+![image](https://github.com/frellwan/CS50AI/assets/12740967/34437fc1-0201-4bc0-823d-a8de3eef5555)
+
+An AI that generates crossword puzzles, by treating the crossword generation as a constraint satisfaction problem and using a backtracking search algorithm.
+
+## Shopping
+![image](https://github.com/frellwan/CS50AI/assets/12740967/3c05ccb1-4f79-4ded-a2c8-9807c82899b3)
+
+An AI that predicts whether online shopping customers will complete a purchase, using the Scikit-Learn k-Nearest Neighbour classifier on a customer dataset.
+
+## Nim
+![image](https://github.com/frellwan/CS50AI/assets/12740967/44b4b20a-c002-475c-9097-da05198f2c0e)
+
+An AI that teaches itself to play the game 'Nim' using Reinforcement Learning. A Q-Learning algorithm with ε-Greedy Decision Making is used to estimate the value of actions for game states.
+
+## Traffic
+![image](https://github.com/frellwan/CS50AI/assets/12740967/fa920328-ac16-4f0e-b6ce-375780e0cf36)
+
+## Parser
+![image](https://github.com/frellwan/CS50AI/assets/12740967/ad16a62e-2658-4178-9bab-acfaa038524b)
+
+An AI that can parse sentences and extract noun phrases, using the context-free grammar formalism and the Python nltk library.
+
+# Questions
+![image](https://github.com/frellwan/CS50AI/assets/12740967/ad12445d-3bc3-4a85-b72d-73e620c6c676)
+
+An AI that answers questions, by determining the most relevant document(s) using tf-idf ranking and then extracting the most relevant sentence(s) using idf and a query term density measure.
+
+
+An AI that identifies which traffic sign appears in a photograph, using a TensorFlow convolutional neural network.
