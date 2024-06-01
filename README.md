@@ -49,6 +49,8 @@ An AI that teaches itself to play the game 'Nim' using Reinforcement Learning. A
 ## Traffic
 ![image](https://github.com/frellwan/CS50AI/assets/12740967/fa920328-ac16-4f0e-b6ce-375780e0cf36)
 
+An AI that identifies which traffic sign appears in a photograph, using a TensorFlow convolutional neural network.
+
 ## Parser
 ![image](https://github.com/frellwan/CS50AI/assets/12740967/ad16a62e-2658-4178-9bab-acfaa038524b)
 
@@ -59,5 +61,3 @@ An AI that can parse sentences and extract noun phrases, using the context-free 
 
 An AI that answers questions, by determining the most relevant document(s) using tf-idf ranking and then extracting the most relevant sentence(s) using idf and a query term density measure.
 
-
-An AI that identifies which traffic sign appears in a photograph, using a TensorFlow convolutional neural network.
