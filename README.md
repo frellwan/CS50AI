@@ -56,8 +56,10 @@ An AI that identifies which traffic sign appears in a photograph, using a Tensor
 
 An AI that can parse sentences and extract noun phrases, using the context-free grammar formalism and the Python nltk library.
 
-# Questions
-![image](https://github.com/frellwan/CS50AI/assets/12740967/ad12445d-3bc3-4a85-b72d-73e620c6c676)
+# Attention
+![attention_3_10_1](https://github.com/frellwan/CS50AI/assets/12740967/cb960a55-8cc2-4ac4-a774-ce34ec7bbdb6)
 
-An AI that answers questions, by determining the most relevant document(s) using tf-idf ranking and then extracting the most relevant sentence(s) using idf and a query term density measure.
+One way to create language models is to build a Masked Language Model, where a language model is trained to predict a “masked” word that is missing from a sequence of text. BERT is a transformer-based language model developed by Google, and it was trained with this approach: the language model was trained to predict a masked word based on the surrounding context words.
+
+BERT uses a transformer architecture and therefore uses an attention mechanism for understanding language. In the base BERT model, the transformer uses 12 layers, where each layer has 12 self-attention heads, for a total of 144 self-attention heads.
 
